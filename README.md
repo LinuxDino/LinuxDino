@@ -1,7 +1,7 @@
 # 🐧 LinuxDino | Kernel • Security • AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Linux+Kernel+Contributor;Exploit+Developer+%26+Security+Researcher;Hacking+Household+Appliances;AI+Workflow+Automation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Linux+Kernel+Contributor;Exploit+Developer+%26+Security+Researcher;+Appliances;AI+" alt="Typing SVG" />
 </p>
 
 ### 🛠️ The Core Stack
